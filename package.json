@@ -1,0 +1,14 @@
+{
+  "name": "audio-viz",
+  "version": "1.0.0",
+  "description": "audio visualization",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hiro Hamaya",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
